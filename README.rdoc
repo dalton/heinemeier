@@ -1,1 +1,7 @@
-A web service wrapper for http://ml.nec-labs.com/senna/ written in Ruby on Rails.
+A web service wrapper for http://ml.nec-labs.com/senna/ written in Ruby on Rails.  As Senna is named after the famous
+racer (http://en.wikipedia.org/wiki/Ayrton_Senna), I chose to name the wrapper after the most famous racing Rails
+developer.  I appreciate the irony that I have also chose to use HAML and Rspec for this project in spite of that.
+
+
+
+

@@ -9,3 +9,8 @@ gem 'jquery-rails'
 gem "haml", ">= 3.1.6"
 gem "haml-rails", ">= 0.3.4", :group => :development
 gem "bootstrap-sass", ">= 2.0.4.0"
+
+gem 'rspec'
+
+gem "better_errors"
+gem "binding_of_caller"
